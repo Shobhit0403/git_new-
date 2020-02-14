@@ -3,5 +3,6 @@ using namespace std ;
 
 int main()
 {
-    cout<< "why";
+    cout<<"changes";
+   cout<< "why";
 }
